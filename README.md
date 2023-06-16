@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @gamestag-py
 - 👀 I’m interested in Web Development / hacking
-- 🌱 I’m currently learning hacking
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Full Stack Web Development
 
 <!---
 gamestag-py/gamestag-py is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
